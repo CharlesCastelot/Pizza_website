@@ -1,0 +1,23 @@
+.pizza-box {
+    background-color: rgb(206, 217, 255);
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.content-container{
+    margin-top: 2em;
+}
+
+.pizza-creation{
+    background-color: rgb(206, 217, 255);
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding: 10px;
+    cursor: pointer;
+}
