@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-*occ30t(v6^6((mi#rx68#@98f4*zqk2f2&ga2j70ih)&hfq!t
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["18.190.113.68"]
+ALLOWED_HOSTS = ["18.190.113.68", "localhost"]
 
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'pizzas')
